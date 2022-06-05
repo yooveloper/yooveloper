@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
   #
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&count_private=true&layout=compact&theme=react)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&count-private=true&layout=compact&theme=react)
 
 
   
