@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&show_icons=true&theme=react)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&show_icons=true&theme=react&count-private=true)
   #
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=compact&theme=react)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=compact&theme=react&count-private=true)
 
 
   
