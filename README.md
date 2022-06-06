@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASSs&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindscss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white">
   
   
 </div>
