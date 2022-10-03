@@ -31,8 +31,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/tailwindscss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white">
-  
+
   
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
+
