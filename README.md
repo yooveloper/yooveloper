@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
   <h2> My tech stack </h2>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
@@ -35,5 +36,5 @@ Here are some ideas to get you started:
   
 </div>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
+
 
