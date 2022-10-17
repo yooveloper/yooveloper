@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
   <br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
   <br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+  
   <h2> My tech stack </h2>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
