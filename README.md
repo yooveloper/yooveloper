@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
   <h2> My tech stack </h2>
