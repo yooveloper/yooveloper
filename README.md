@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span align="center">
+<div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
   <br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white">
 
   
-</span>
+</div>
 
 
 
