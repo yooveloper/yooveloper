@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<span align="center">
 
-  <span>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
-    <br>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=demo)](https://github.com/anuraghazra/github-readme-        stats)
-  </span>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooveloper&count_private=true&show_icons=true&theme=react)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooveloper&layout=demo)](https://github.com/anuraghazra/github-readme-        stats)
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooveloper)](https://solved.ac/yooveloper/)
   <br>
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white">
 
   
-</div>
+</span>
 
 
 
