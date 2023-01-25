@@ -1,5 +1,5 @@
-Study hard
+1. Study hard
 
-Be patient
+2. Be patient
 
-Step by Step
+3. Step by step
